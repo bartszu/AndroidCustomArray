@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="countries">
+		
+		<item name="udfsa">System</item>
+		<item name="bragdfgzil">Computer</item>
+		<item name="russdfia">Linux</item>
+		<item name="egydfgpt">Android</item>
+		<item name="japdgan">USB</item>
+		
+		<item name="usdga">NIC</item>
+		<item name="bradgzil">Settings</item>
+		<item name="russidga">Setup</item>
+		<item name="egfgdypt">Install</item>
+		<item name="japdfan">Compres</item>
+		
+		<item name="usgfda">Tivoize</item>
+		<item name="brazdgil">Grab</item>
+		<item name="russdgia">Destroy</item>
+		<item name="egydgpt">Run</item>
+		
+		
+	</string-array>
+</resources>
